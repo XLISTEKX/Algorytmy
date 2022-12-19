@@ -1,0 +1,30 @@
+﻿  ProblemC.cpp
+C:\Projekty\Algorytmy\ProblemC\ProblemC\ProblemC.cpp(36,35): warning C4244: "=": konwersja z "_Ty" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Projekty\Algorytmy\ProblemC\ProblemC\ProblemC.cpp(37,35): warning C4244: "=": konwersja z "_Ty" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Projekty\Algorytmy\ProblemC\ProblemC\ProblemC.cpp(58,23): warning C4244: "=": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Projekty\Algorytmy\ProblemC\ProblemC\ProblemC.cpp(59,23): warning C4244: "=": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+  ProblemC.vcxproj -> C:\Projekty\Algorytmy\ProblemC\x64\Debug\ProblemC.exe
