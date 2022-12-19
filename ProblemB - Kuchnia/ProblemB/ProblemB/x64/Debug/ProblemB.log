@@ -1,0 +1,4 @@
+﻿  ProblemB.cpp
+C:\Projekty\Algorytmy\ProblemB - Kuchnia\ProblemB\ProblemB\ProblemB.cpp(110,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projekty\Algorytmy\ProblemB - Kuchnia\ProblemB\ProblemB\ProblemB.cpp(115,38): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  ProblemB.vcxproj -> C:\Projekty\Algorytmy\ProblemB - Kuchnia\ProblemB\x64\Debug\ProblemB.exe
